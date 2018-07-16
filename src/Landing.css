@@ -1,0 +1,13 @@
+body {
+    padding: 10px;
+}
+
+.signUp {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.landing-img img{
+    width: 500px;
+    height: 500px;
+}
