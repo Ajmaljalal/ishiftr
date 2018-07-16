@@ -11,3 +11,19 @@ body {
     width: 500px;
     height: 500px;
 }
+
+.scheduleButton {
+    width: 200px !important;
+    height: 80px !important;
+    font-size: 20px !important;
+}
+
+.signUp {
+    padding: 10px;
+}
+
+.landing-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
